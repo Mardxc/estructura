@@ -1,3 +1,2 @@
-# dataprice
-
-A new Flutter project.
+EJECUTAR EL OBSERVADOR DE RIVERPOD Y COMPILAR
+dart run build_runner watch
